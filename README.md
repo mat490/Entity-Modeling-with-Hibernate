@@ -8,7 +8,7 @@ The application is a simple Hibernate application. It is the final delivery of m
 
 It models the following tables: 
 
-1. Pacientes.
+**1. Pacientes.
 2. Sexo
 3. Datos Personales Generales
 4. Estados Civiles
@@ -17,9 +17,9 @@ It models the following tables:
 7. Grupo Sanguineo
 8. Rh
 9. Lugares de Nacimiento.
-10. Ocupaciones.
+10. Ocupaciones.**
 
-These tables are part of a relational database for a Clinical History Management and Analysis System
+These tables are part of a relational database for a Clinical History Management and Analysis System.
 
 ## Getting Your Development Environment Set Up
 
