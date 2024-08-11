@@ -1,23 +1,23 @@
 # Entity Modeling with HIBERNATE
 
-**Diplomado UNAM - Hibernate**
+## Diplomado UNAM - Hibernate
 
 *This repository is for an example application built in [Hibernate 5.4.2.Final].*
 
 The application is a simple Hibernate application. It is the final delivery of module 4 of the 15th edition of the diploma course "Development of Systems with Java Technology" taught by the General Directorate of Computing and Information and Communication Technologies of the Universidad Nacional Autonoma de México.
 
-It models the following tables: 
+**It models the following tables:**
 
-**1. Pacientes.
+1. Pacientes.
 2. Sexo
 3. Datos Personales Generales
 4. Estados Civiles
 5. Direcciones
 6. COMBE
 7. Grupo Sanguineo
-8. Rh
+8. RH
 9. Lugares de Nacimiento.
-10. Ocupaciones.**
+10. Ocupaciones.
 
 These tables are part of a relational database for a Clinical History Management and Analysis System.
 
